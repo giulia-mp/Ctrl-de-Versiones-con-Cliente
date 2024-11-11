@@ -3,5 +3,5 @@ using UnityEngine;
 
 public class ScriptRandom : MonoBehaviour
 {
-   //Hola 
+   //Sayonara Baby 
 }
